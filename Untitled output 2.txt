@@ -1,0 +1,13 @@
+
+========== LIBRARY MANAGEMENT SYSTEM ==========
+1. Add New Book
+2. Display All Books
+3. Search Book by ID
+4. Search Book by Name
+5. Issue Book
+6. Return Book
+7. Update Book Details
+8. Count Total Books
+9. Display Available Books
+10. Exit
+Enter your choice: 
